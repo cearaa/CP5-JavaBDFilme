@@ -13,7 +13,7 @@ import br.com.fiap.controller.FilmeController;
 import javax.swing.*;
 
 public class FilmeView {
-    public static void main(String[] args) {
+    static void main() {
 
         String titulo, genero, produtora;
         int codigo;
